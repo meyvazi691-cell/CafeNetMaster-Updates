@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "file_name": "CafeNetMaster_Setup.exe",
-  "download_url": "https://github.com/meyvazi691-cell/CafeNetMaster-Updates/releases/download/v1.0.0/CafeNetMaster_Setup.exe",
-  "sha256": "2cf7850a1df6e0bab00896af012ccefe45dfad16ed336bb2aa2f676bd7608e18",
-  "release_notes": "First stable release"
+  "version": "1.0.1",
+  "file_name": "CafeNetMaster_New_Setup.exe",
+  "download_url": "https://github.com/meyvazi691-cell/CafeNetMaster-Updates/releases/download/v1.0.1/CafeNetMaster_New_Setup.exe",
+  "sha256": "c5694c1a0b9eef65a561ba0d27f048b4fe77afbd50d417e109aefc5bc8931b9d",
+  "release_notes": "Version 1.0.1 - Improved remote configuration and update system"
 }

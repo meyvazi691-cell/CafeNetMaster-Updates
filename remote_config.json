@@ -1,0 +1,25 @@
+{
+  "revision": 1,
+  "theme": {
+    "BG": "#eef2f7",
+    "NAVY": "#0f2a43",
+    "NAVY2": "#1f5673",
+    "TEAL": "#14b8a6",
+    "TEAL_D": "#0d9488",
+    "MINT": "#a7f3d0",
+    "WHITE": "#ffffff",
+    "TEXT": "#1e293b",
+    "MUTED": "#64748b",
+    "BORDER": "#d3dce6"
+  },
+  "features": {
+    "counter": true,
+    "merge_pdf": true,
+    "image_tools": true,
+    "clean_tools": true
+  },
+  "texts": {
+    "APP_SUB": "ابزارهای کاربردی آفلاین",
+    "APP_TAG": "Instagram: @your_id"
+  }
+}
